@@ -1,0 +1,4 @@
+com\test\hadoop\InvertedIndex$InvertedIndexCombiner.class
+com\test\hadoop\InvertedIndex.class
+com\test\hadoop\InvertedIndex$InvertedIndexMapper.class
+com\test\hadoop\InvertedIndex$InvertedIndexReducer.class
